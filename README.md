@@ -1,2 +1,1 @@
-Basic script development
-50k launches - Reached.
+Kid, that likes coding.
