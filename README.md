@@ -1,1 +1,1 @@
-Kid, that likes coding.
+Kid, who likes coding.
