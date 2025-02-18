@@ -1,1 +1,1 @@
-Kid, who likes coding.
+Junior python dev
